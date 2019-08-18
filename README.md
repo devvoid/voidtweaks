@@ -22,9 +22,9 @@ advancement revoke @a only unlockall:recipes/root
 
 Adds crafting recipes for a lot of things that can't normally be crafted, such as nametags, saddles, horse armor, and bells. It also allows you to smelt rotten flesh in the furnace or smoker to produce leather.
 
-## Convinience
+## Convenience
 
-Adds a lot of more convinient crafting recipes. For example, this allows for making things like glass, terracotta, glazed terracotta, and charcoal in the blast furnace!
+Adds a lot of more convenient crafting recipes. For example, this allows for making things like glass, terracotta, glazed terracotta, and charcoal in the blast furnace!
 
 ## ModifiedDrops
 

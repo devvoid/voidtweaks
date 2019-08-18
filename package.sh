@@ -4,8 +4,8 @@ if [ ! -d "Work" ]; then
 	mkdir Work
 fi
 
-cd Convinience
-7z a -tzip ../Work/Convinience.zip
+cd Convenience
+7z a -tzip ../Work/Convenience.zip
 
 cd ../ModifiedDrops
 7z a -tzip ../Work/ModifiedDrops.zip
