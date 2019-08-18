@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "stained_terracotta",
+  "group": "stained_glazed_terracotta",
   "pattern": [
     "###",
     "#X#",
@@ -8,14 +8,14 @@
   ],
   "key": {
     "#": {
-      "tag": "redying:terracotta"
+      "tag": "redying:glazed_terracotta"
     },
     "X": {
-      "item": "minecraft:red_dye"
+      "item": "minecraft:lime_dye"
     }
   },
   "result": {
-    "item": "minecraft:red_terracotta",
+    "item": "minecraft:lime_glazed_terracotta",
     "count": 8
   }
 }
