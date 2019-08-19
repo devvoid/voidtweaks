@@ -10,14 +10,6 @@ Ever made too many light blue stained glass panes? Ever started using red terrac
 
 This pack will unlock every single recipe in the entire game as soon as you load your world. Very helpful if you have a lot of datapacks that add custom recipes!
 
-Needs unrestricted advancements enabled if used on a server, or cheats enabled if used in singleplayer.
-
-Note: Because of the way advancements work, by default this only works once. To re-run it for everyone on the current server, use this command:
-
-```
-advancement revoke @a only unlockall:recipes/root
-```
-
 ## Uncraftables
 
 Adds crafting recipes for a lot of things that can't normally be crafted, such as nametags, saddles, horse armor, and bells. It also allows you to smelt rotten flesh in the furnace or smoker to produce leather.
