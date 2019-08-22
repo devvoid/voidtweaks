@@ -22,6 +22,14 @@ Adds a lot of more convenient crafting recipes. For example, this allows for mak
 
 Modifies loot tables for a few things. Emerald ore now drops 2 to 5 emeralds instead of just one, creepers can rarely drop music discs when killed by players, and zombie pigmen can rarely drop cooked porkchops.
 
+## NoPhantoms
+
+Allows users to disable Phantoms!
+
+On first-time settup, an op must run the command `/function nophantoms:setup`, and then create the structure `nophantoms:toggle_station`. Afterwards, you can use the toggle station to set whether or not you want Phantoms.
+
+Any Phantom that comes within five blocks of someone who doesn't want them will be banished to the Void!
+
 ### License
 
 These datapacks are available under the terms of the MIT license.
