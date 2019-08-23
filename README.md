@@ -20,7 +20,7 @@ Adds a lot of more convenient crafting recipes. For example, this allows for mak
 
 ## ModifiedDrops
 
-Modifies loot tables for a few things. Emerald ore now drops 2 to 5 emeralds instead of just one, creepers can rarely drop music discs when killed by players, and zombie pigmen can rarely drop cooked porkchops.
+Modifies loot tables for a few things. Emerald ore now drops 2 to 5 emeralds instead of just one, creepers can rarely drop music discs when killed by players, zombie pigmen can rarely drop cooked porkchops, and the Ender Dragon has a rare chance of dropping a Dragon Egg.
 
 ## NoPhantoms
 
