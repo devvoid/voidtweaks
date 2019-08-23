@@ -14,10 +14,13 @@ cd ../Redying
 7z a -tzip ../Work/Redying.zip
 
 cd ../Uncraftables
-7z a -tzip ../Work/Uncraftables
+7z a -tzip ../Work/Uncraftables.zip
 
 cd ../UnlockAll
-7z a -tzip ../Work/UnlockAll
+7z a -tzip ../Work/UnlockAll.zip
+
+cd ../NoPhantoms
+7z a -tzip ../Work/NoPhantoms.zip
 
 cd ..
 echo "Done!"
