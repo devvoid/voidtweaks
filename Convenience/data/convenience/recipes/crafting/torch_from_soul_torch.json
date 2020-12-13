@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "group": "torch",
+    "ingredients": [
+        {
+            "item": "minecraft:soul_torch"
+        }
+    ],
+    "result": {
+        "item": "minecraft:torch"
+    }
+}
