@@ -22,5 +22,8 @@ cd ../UnlockAll
 cd ../NoPhantoms
 7z a -tzip ../Work/NoPhantoms.zip
 
+cd ../Cleanup
+7z a -tzip ../Work/Cleanup.zip
+
 cd ..
 echo "Done!"
