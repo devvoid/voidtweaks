@@ -1,0 +1,9 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:void_air",
+		"minecraft:cobblestone",
+		"minecraft:cracked_stone_bricks",
+		"minecraft:stone_bricks"
+	]
+}

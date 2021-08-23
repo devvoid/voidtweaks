@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,name="cf_center"] at @s run fill ~-9 ~ ~-9 ~9 ~30 ~9 stone_bricks replace #crumbling_foundations:floor

@@ -25,5 +25,8 @@ cd ../NoPhantoms
 cd ../Cleanup
 7z a -tzip ../Work/Cleanup.zip
 
+cd ../Minigames
+7z a -tzip ../Work/Minigames.zip
+
 cd ..
 echo "Done!"
