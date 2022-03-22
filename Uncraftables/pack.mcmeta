@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 8,
+		"pack_format": 9,
 		"description": "Add crafting recipes for things that normally can't be crafted!"
 	}
 }
